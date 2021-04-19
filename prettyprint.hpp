@@ -5,20 +5,7 @@
 //
 // A pretty printing library for C++
 //
-// Usage:
-// Include this header, and operator<< will "just work".
-
-#ifndef H_PRETTY_PRINT
-#define H_PRETTY_PRINT
-
-#include <cstddef>
-#include <iterator>
-#include <memory>
-#include <ostream>
-#include <set>
-#include <tuple>
-#include <type_traits>
-#include <unordered_set>
+// Usage:d_set>
 #include <utility>
 #include <valarray>
 
